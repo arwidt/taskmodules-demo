@@ -1,0 +1,26 @@
+{
+  "name": "taskmodules_test",
+  "version": "1.0.0",
+  "description": "Gulp tasks as commonjs modules. Wrapped with their own dependencies. Nice syntax that work with async lib for instance.",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^1.5.2",
+    "gulp": "^3.9.1",
+    "jquery": "^2.2.1",
+    "taskmodules": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arwidt/taskmodules_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arwidt/taskmodules_test/issues"
+  },
+  "homepage": "https://github.com/arwidt/taskmodules_test#readme"
+}
